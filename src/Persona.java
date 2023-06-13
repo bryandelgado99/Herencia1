@@ -77,13 +77,4 @@ public class Persona {
     public void setSigno_zodiacal(String signo_zodiacal) {
         this.signo_zodiacal = signo_zodiacal;
     }
-
-    //
-    public void caminar(){
-        System.out.println("Este personaje camina!");
-    }
-
-    private int trabajar(){
-        return 0;
-    }
 }
